@@ -1,0 +1,5 @@
+com\example\common\model\Book.class
+CorsConfig$1.class
+CorsConfig.class
+com\example\common\repository\BookRepository.class
+com\example\common\model\CartItem.class
